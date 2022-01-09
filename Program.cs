@@ -12,8 +12,9 @@ namespace kuznecovGit
         {
             int a = 5;
             Console.WriteLine(a);
-            int b = 10;
+            int b = 8;
             Console.WriteLine(b);
+
 
         }
     }
