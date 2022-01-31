@@ -14,7 +14,7 @@ namespace kuznecovGit
             Console.WriteLine(a);
             int b = 8;
             Console.WriteLine(b);
-            Console.WriteLine("Hello. I am Kuznecov A.E");
+            Console.WriteLine("Hello. I am Kuznecov Alexey Evgen.");
 
 
         }
